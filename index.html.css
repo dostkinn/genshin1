@@ -1,0 +1,26 @@
+.cards {
+    text-align: center;
+}
+
+body {
+    background: #3a3a3a;
+    color: #f0f8ff;
+}
+
+nav {
+    display: flex;
+    justify-content: space-around;
+}
+
+.nav-link {
+    background-color: #6b6b6b;
+
+    color: #f0f8ff;
+    padding: 10px;
+    text-decoration: none;
+}
+
+.nav-link:hover {
+    background-color: rgb(70, 133, 133);
+
+}
