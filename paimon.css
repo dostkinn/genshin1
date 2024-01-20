@@ -62,26 +62,3 @@ p {
     text-align: justify;
 }
 
-@media (orientation: landscape) {
-    main {
-        background-color: #3a3a3a;
-        width: 640px;
-        font-size: large    ;
-    }
-}
-
-@media (orientation: portrait) {
-    main {
-        background-color: #3a3a3a;
-        width: 240px;
-        font-size: small;
-    }
-}
-
-@media (max-width: 720px) {
-    main {
-        background-color: #3a3a3a;
-        width: 480px;
-        font-size: medium;
-    }
-}
